@@ -1,6 +1,9 @@
 # UGG_Authenticity_CNN
 An ongoing project to help potential UGG boot buyers determine if the shoes they are about to purchase from 
 an unknown individual on the internet are authentic or not. 
+
+Please note this is in a Jupyter Notebook.
+
 This CNN can identify particular features of the boot, then learn if they are authentic or replicas with 94% accuracy. 
 The testing accuracy resulted in 91% accuracy which I attribute to my small dataset
 
